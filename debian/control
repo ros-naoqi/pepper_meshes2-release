@@ -1,0 +1,12 @@
+Source: ros-humble-pepper-meshes
+Section: misc
+Priority: optional
+Maintainer: Maxime Busy <mbusy@softbankrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), default-jdk, ros-humble-ament-cmake, ros-humble-ros-workspace
+Homepage: http://github.com/ros-naoqi/pepper_meshes2/
+Standards-Version: 3.9.2
+
+Package: ros-humble-pepper-meshes
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-ros-workspace
+Description: Meshes for the Pepper robot, for ROS2
