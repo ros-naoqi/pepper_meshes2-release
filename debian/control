@@ -1,0 +1,12 @@
+Source: ros-iron-pepper-meshes
+Section: misc
+Priority: optional
+Maintainer: Victor Paléologue <victor.paleologue@palaio.eu>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-ros-workspace
+Homepage: http://github.com/ros-naoqi/pepper_meshes2/
+Standards-Version: 3.9.2
+
+Package: ros-iron-pepper-meshes
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-ros-workspace
+Description: Meshes for the Pepper robot, for ROS2
