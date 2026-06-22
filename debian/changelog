@@ -1,0 +1,31 @@
+ros-kilted-pepper-meshes (3.0.0-1bookworm) bookworm; urgency=high
+
+  * Update status badges
+  * Add CI
+  * Interactive agreement by default
+    Explicit option in command line to agree to license.
+    Improved interaction and messages.
+  * Improved detection of the platform
+  * Update maintainers
+  * Contributors: Victor Paléologue
+
+ -- "Victor Paléologue" <victor.paleologue@palaio.eu>  Wed, 22 Nov 2023 00:00:00 -0000
+
+ros-kilted-pepper-meshes (2.0.1-1bookworm) bookworm; urgency=high
+
+  * Merge branch 'fix_binaries' into main
+  * Update CMakeLists.txt, attempting to fix the binaries for ROS2
+  * Fix badge links in README
+  * Contributors: mbusy
+
+ -- "Victor Paléologue" <victor.paleologue@palaio.eu>  Tue, 13 Sep 2022 00:00:00 -0000
+
+ros-kilted-pepper-meshes (2.0.0-1bookworm) bookworm; urgency=high
+
+  * Fix typo in CMakeLists.txt
+  * Add pepper_meshes package files for ROS2, refactoring the package.xml and the CMakeLists.txt
+  * Contributors: mbusy
+
+ -- "Victor Paléologue" <victor.paleologue@palaio.eu>  Sat, 10 Sep 2022 00:00:00 -0000
+
+
