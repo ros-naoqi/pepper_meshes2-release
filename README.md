@@ -1,3 +1,26 @@
+## pepper_meshes (kilted) - 3.0.0-1
+
+The packages in the `pepper_meshes` repository were released into the `kilted` distro by running `/root/Code/Palaio/naoqi-ros2-control/bloom-venv/bin/bloom-release -y --no-web --no-pull-request --override-release-repository-url https://github.com/ros-naoqi/pepper_meshes2-release.git -r kilted -t kilted pepper_meshes` on `Mon, 22 Jun 2026 09:39:35 -0000`
+
+The `pepper_meshes` package was released.
+
+Version of package(s) in repository `pepper_meshes`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_meshes2.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `3.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## pepper_meshes (jazzy) - 3.0.0-1
 
 The packages in the `pepper_meshes` repository were released into the `jazzy` distro by running `/root/Code/Palaio/naoqi-ros2-control/bloom-venv/bin/bloom-release -y --no-web --no-pull-request --override-release-repository-url https://github.com/ros-naoqi/pepper_meshes2-release.git -r jazzy -t jazzy pepper_meshes` on `Mon, 22 Jun 2026 09:38:51 -0000`
